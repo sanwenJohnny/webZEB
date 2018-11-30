@@ -8,7 +8,7 @@ a webhook test
 
 ``` bash
 # vuex
-1.action函数名统一以action结尾
+1.action函数名统一以action结尾h
 2.state名称统一以s开头，驼峰式结构，如:sState
 3.types key值名称统一为大写字母，以下划线分隔
 4.store目录下分模块，使用命名空间，一级目录下为公共使用
