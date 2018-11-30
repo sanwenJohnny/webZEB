@@ -1,0 +1,41 @@
+{
+  "name": "zebra-web",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build-dev": "vue-cli-service build ",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "domain": "gulp setdomain"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "gulp": "^3.9.1",
+    "inquirer": "^6.2.0",
+    "lrz": "^4.9.40",
+    "mint-ui": "^2.2.13",
+    "swiper": "^4.4.1",
+    "vue": "^2.5.17",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-infinite-loading": "^2.3.5",
+    "vue-lazyload": "^1.2.6",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "webpack-babel-plugin": "^0.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-eslint": "^3.0.4",
+    "@vue/cli-service": "^3.0.4",
+    "@vue/eslint-config-standard": "^3.0.4",
+    "cross-env": "^5.2.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "lrz": "^4.9.40",
+    "postcss-px2rem": "^0.3.0",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-template-compiler": "^2.5.17"
+  }
+}

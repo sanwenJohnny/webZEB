@@ -1,0 +1,22 @@
+body { font-family: "PingFangSC-Regular",Helvetica,HelveticaNeue,Arial,Verdana,Sans-serif;}
+
+.fix { position: fixed; }
+.abs { position: absolute; }
+.rela { position: relative; }
+
+.fl { float: left; }
+.fr { float: right; }
+
+.flex { display: flex; }
+.none { display: none; }
+.block { display: block; }
+.inline { display: inline; }
+.inlbk {display: inline-block;}
+
+.tc { text-align: center; }
+
+.fs-12 { font-size: 12px; }
+.fs-14 { font-size: 14px; }
+.fs-16 { font-size: 16px; }
+.fs-18 { font-size: 18px; }
+.fs-20 { font-size: 20px; }

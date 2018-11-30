@@ -1,0 +1,10 @@
+/**
+ * @providesModule fm-dialog - dialog
+ * @author ifootmark@163.com
+ * @version v2.0.0
+ * @link https://ifootmark.github.io/fm-dialog/
+ * @license MIT
+ * @time 2018-3-22 14:57:32
+ */
+.floading,.floading .tips,.msgcomm{text-align:center}@-webkit-keyframes animateIn{0%{opacity:0;-webkit-transform:scale3d(.7,.7,.7);transform:scale3d(.7,.7,.7)}100%{opacity:1}}@keyframes animateIn{0%{opacity:0;-webkit-transform:scale3d(.7,.7,.7);transform:scale3d(.7,.7,.7)}100%{opacity:1}}@-webkit-keyframes animateOut{0%{opacity:1}100%{opacity:0;-webkit-transform:scale3d(.7,.7,.7);transform:scale3d(.7,.7,.7)}}@keyframes animateOut{0%{opacity:1}100%{opacity:0;-webkit-transform:scale3d(.7,.7,.7);transform:scale3d(.7,.7,.7)}}.animateIn{-webkit-animation:animateIn .5s both;animation:animateIn .5s both}.animateOut{-webkit-animation:animateOut .5s both;animation:animateOut .5s both}.iclose{-webkit-transition:All .8s ease-in-out;transition:All .8s ease-in-out}.iclose:hover{-webkit-transform:rotate(360deg);transform:rotate(360deg)}.msgcomm{padding:16px 12px}.msg-default{background:#fff;color:#333;border:1px solid #C2C2C2;border-radius:8px}.msg-inverse{background:rgba(0,0,0,.8);color:#fff}.msg-muted{background:#DBDBDB;color:#6B6B6B}.msg-success{background:#5CB85C;color:#fff}.msg-info{background:#5BC0DE;color:#fff}.msg-error{background:#D9534F;color:#fff}.msg-warning{background:#F0AD4E;color:#fff}.floading .loading{display:inline-block;width:30px;height:30px;border:4px solid transparent;border-color:#858585 #858585 #858585 transparent;border-radius:50%;-webkit-animation:spinner-rotate .8s linear infinite;animation:spinner-rotate .8s linear infinite}.floading .tips{display:block;font-size:14px;margin-top:2px}@-webkit-keyframes spinner-rotate{0%{-webkit-transform:rotate(0)}100%{-webkit-transform:rotate(360deg)}}@keyframes spinner-rotate{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+.ipopup{font-size: 14px;}
